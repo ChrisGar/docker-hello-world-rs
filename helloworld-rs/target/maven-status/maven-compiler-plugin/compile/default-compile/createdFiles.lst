@@ -1,0 +1,4 @@
+org/jboss/as/quickstarts/rshelloworld/HelloWorld.class
+org/jboss/as/quickstarts/util/CORSFilter.class
+org/jboss/as/quickstarts/rshelloworld/HelloService.class
+org/jboss/as/quickstarts/rshelloworld/JAXActivator.class
